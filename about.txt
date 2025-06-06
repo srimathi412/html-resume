@@ -1,0 +1,18 @@
+Hello, my name is K. Srimathi. I’m currently pursuing my third year of Bachelor of Engineering in Computer Science at KIT Kalaignarkarunanidhi Institute of Technology in Coimbatore. With a CGPA of 8.05, I am committed to academic excellence while continuously developing my practical and technical skills.
+
+I have a solid foundation in programming, with hands-on experience in Python, Java, C, and C++. My strengths lie in problem-solving, code debugging, and algorithmic thinking, which I enjoy applying in both academic projects and self-driven learning.
+
+To further enhance my technical expertise, I have earned multiple certifications:
+
+Python Foundation Certification, covering the core principles and problem-solving using Python.
+
+Juniper Networks Certification, which introduced me to networking fundamentals and practical network configuration.
+
+Red Hat Certification, where I gained experience in Linux system administration, command-line tools, and open-source technologies.
+
+
+These certifications have given me valuable exposure to both software development and system-level tools, helping me build a more rounded understanding of the tech industry.
+
+Beyond my technical skills, I take pride in being an effective listener and managing my time well. I also enjoy creative activities such as painting and exploring new places through travel, which help me stay imaginative and refreshed.
+
+I’m eager to take on new challenges and contribute meaningfully to a team, while continuously learning and growing in a dynamic and innovative environment.
